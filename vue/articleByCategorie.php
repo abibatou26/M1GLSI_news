@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<title>Actualités </title>
-	<link rel="stylesheet" type="text/css" href="assets/css/style1.css">
+	<link rel="stylesheet" type="text/css" href="assets/css/style.css">
 </head>
 <body>
 	<?php require_once 'inc/entete.php'; ?>
