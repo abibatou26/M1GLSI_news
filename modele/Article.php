@@ -11,13 +11,7 @@
 		public $dateCreation;
 		public $dateModification;
 
-		// private $bdd;
-
-		// public function __construct()
-		// {
-		// 	$this->bdd = ConnexionManager::getInstance();
-		// }
-
+		
 		public static function getList()
 		{
 			$bdd = ConnexionManager::getInstance();
